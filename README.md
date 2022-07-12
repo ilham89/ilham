@@ -42,17 +42,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ilham89&&show_icons=true&theme=radical&line_height=27&v=5" alt="ilham's GitHub Stats" />
 </p>
 
-<br/>
-
-<h2 align="center"> My latest projects </h2>
-
-<a href="https://github.com/WEGFan/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
-</a>
-<a href="https://github.com/WEGFan/Geometry-Dash-Menu-Music-Randomizer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=Geometry-Dash-Menu-Music-Randomizer" alt="Geometry-Dash-Menu-Music-Randomizer" />
-</a>
-
-
 ---
 <br />
