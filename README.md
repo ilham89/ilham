@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Ilham Kukuh Prakosa! 👋 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilham89" alt="ilham89" /> </p>
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/ilham89/ilham89/blob/master/Assets/developer.gif"/>
 
 - 🔭 I’m currently working on @kodingworks as **Software Engineer**
 
