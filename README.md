@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [Where else than Github](https://github.com/ilham89)
 
+- 😄 Pronouns: he/him
+
 - 💬 Ask me about **Anything and Everything**
 
 - 📫 How to reach me **ilhamkukuhprakosa@gmail.com**   
