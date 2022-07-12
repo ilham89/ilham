@@ -37,7 +37,7 @@
 <h2 align="center"> Github Stats </h2>
 <p align="center">
   <a href="https://github.com/ilham89">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham89&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham89&theme=radical&hide=html" />
   </a>
 </p>
 <p align="center">
