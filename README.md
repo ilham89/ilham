@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilham89" alt="ilham89" /> </p>
 <img align="right" src="https://github.com/ilham89/ilham89/blob/master/Assets/developer.gif"/>
 
-- 🔭 I’m currently working on @kodingworks as **Software Engineer**
+- 🔭 I’m currently working on @pandatech as **Software Engineer**
 
 - 🌱 I’m currently learning **Flutter**
 
