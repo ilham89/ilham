@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: he/him
 
-- 💬 Ask me about **Anything and Everything**
+- 💬 Ask me about **React and Vue**
 
 - 📫 How to reach [me](https://t.me/ilhamkukuh)
 
