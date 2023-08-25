@@ -41,8 +41,12 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilham89&&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="ilham's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilham89&&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="ilham GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ilham89&theme=highcontrast" alt="ilham current streak" />
 </p>
 
 ---
 <br />
+
