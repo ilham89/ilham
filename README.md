@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilham89" alt="ilham89" /> </p>
 <img align="right" src="https://github.com/ilham89/ilham89/blob/master/Assets/developer.gif"/>
 
-- 🔭 I’m currently working on @pandatech as **Software Engineer**
+- 🔭 I’m software engineer always thirsty for knowledge
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Front End Development**
+- 👯 I’m looking to collaborate on **FrontEnd Development**
 
 - 👨‍💻 All of my projects are available at [Where else than Github](https://github.com/ilham89)
 
