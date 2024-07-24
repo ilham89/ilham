@@ -1,5 +1,4 @@
 <h1 align="center"> Hi there, I'm Ilham Kukuh Prakosa! 👋 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilham89" alt="ilham89" /> </p>
 <img align="right" src="https://github.com/ilham89/ilham89/blob/master/Assets/developer.gif"/>
 
 - 🔭 I’m software engineer always thirsty for knowledge
@@ -34,19 +33,41 @@
 
 <br/>
 
-<h2 align="center"> Github Stats </h2>
-<p align="center">
-  <a href="https://github.com/ilham89">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham89&theme=radical&hide=html" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilham89&&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="ilham GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ilham89&theme=highcontrast" alt="ilham current streak" />
+    
+<h2></h2>
+
+<!-- Holopin Profile -->
+<h2> My Holopin Profile</h2>
+<div align="center">
+  
+[![An image of @vatsalsinghkv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vatsalsinghkv)](https://holopin.io/@vatsalsinghkv)
+
+</div>
+
+ <h2></h2>
+
+<p>
+  <img src="https://github-readme-stats-kv.vercel.app/api?username=ilham89&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="ilham github-readme-stats"/>
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=ilham89&theme=tokyonight_duo&hide_border=true" width="48%" alt="ilham github-readme-streak-stats"/>
 </p>
 
----
-<br />
+<p>
+    <img width="50%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=ilham89&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="ilham" />
 
+<h2></h2>
+
+<!-- Activity Graph -->
+<p align="center">
+    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=ilham&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilham89&theme=tokyonight&hide_border=true"  width="64%" alt="ilham profile-details"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilham89&theme=tokyonight"  width="31%" alt="ilham github stats"/>
+</p>
+
+<!-- <p align="center">
+<img src="https://profile-counter.glitch.me/{vatsalsinghkv}/count.svg" alt="Vatsal :: Visitor's Count" />
+</p> -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ilham89&label=Profile%20views&color=0ea5e9&style=flat" alt="ilham" /> </p>
