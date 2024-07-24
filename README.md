@@ -33,17 +33,6 @@
 
 <br/>
 
-    
-<h2></h2>
-
-<!-- Holopin Profile -->
-<h2> My Holopin Profile</h2>
-<div align="center">
-  
-[![An image of @ilham89's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ilham89)](https://holopin.io/@ilham89)
-
-</div>
-
  <h2></h2>
 
 <p>
