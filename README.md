@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-    <img width="50%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=ilham89&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="ilham" />
+    <img width="50%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=ilham89&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true&hide=html" alt="ilham" />
 
 <h2></h2>
 
