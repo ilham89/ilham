@@ -40,7 +40,7 @@
 <h2> My Holopin Profile</h2>
 <div align="center">
   
-[![An image of @vatsalsinghkv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vatsalsinghkv)](https://holopin.io/@vatsalsinghkv)
+[![An image of @ilham89's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ilham89)](https://holopin.io/@ilham89)
 
 </div>
 
@@ -51,7 +51,7 @@
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=ilham89&theme=tokyonight_duo&hide_border=true" width="48%" alt="ilham github-readme-streak-stats"/>
 </p>
 
-<p>
+<p align="center">
     <img width="50%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=ilham89&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="ilham" />
 
 <h2></h2>
