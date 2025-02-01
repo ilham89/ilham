@@ -8,12 +8,6 @@
 - 📫 How to reach [me](https://t.me/ilhamkukuh)
 
 
-<br/>
-
-<br/>
-
- <h2></h2>
-
 <p>
   <img src="https://github-readme-stats-kv.vercel.app/api?username=ilham89&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="ilham github-readme-stats"/>
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=ilham89&theme=tokyonight_duo&hide_border=true" width="48%" alt="ilham github-readme-streak-stats"/>
