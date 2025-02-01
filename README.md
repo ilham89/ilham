@@ -1,6 +1,4 @@
 <h1 align="center"> Hi there, I'm Ilham Kukuh Prakosa! 👋 </h1>
-<img align="right" src="https://github.com/ilham89/ilham89/blob/master/Assets/developer.gif"/>
-
 - 🔭 I’m software engineer always thirsty for knowledge
 
 - 👨‍💻 All of my projects are available at [Where else than Github](https://github.com/ilham89)
