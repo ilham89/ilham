@@ -3,15 +3,9 @@
 
 - 🔭 I’m software engineer always thirsty for knowledge
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **FrontEnd Development**
-
 - 👨‍💻 All of my projects are available at [Where else than Github](https://github.com/ilham89)
 
 - 😄 Pronouns: he/him
-
-- 💬 Ask me about **React and Vue**
 
 - 📫 How to reach [me](https://t.me/ilhamkukuh)
 
